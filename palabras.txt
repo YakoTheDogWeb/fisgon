@@ -1,0 +1,263 @@
+Naturaleza (20)
+Sol
+Luna
+Volcán
+Montaña
+Cascada
+Río
+Lago
+Glaciar
+Desierto
+Isla
+Cueva
+Acantilado
+Arcoíris
+Nube
+Tornado
+Iceberg
+Géiser
+Oasis
+Playa
+Pantano
+
+Vehículos (20)
+Submarino
+Teleférico
+Bicicleta
+Motocicleta
+Tractor
+Helicóptero
+Avión
+Tren
+Tranvía
+Autobús
+Ambulancia
+Caravana
+Velero
+Canoa
+Patinete
+Cohete
+Globo aerostático
+Excavadora
+Trineo
+Monopatín
+
+Estructuras (20)
+Faro
+Puente
+Castillo
+Pirámide
+Rascacielos
+Molino
+Túnel
+Presa
+Acueducto
+Catedral
+Estadio
+Quiosco
+Granero
+Iglú
+Fortaleza
+Anfiteatro
+Invernadero
+Chimenea
+Torre de control
+Muralla
+
+Hogar (20)
+Paraguas
+Almohada
+Colchón
+Sofá
+Espejo
+Cortina
+Alfombra
+Percha
+Escoba
+Fregona
+Cubo
+Lámpara
+Vela
+Reloj de pared
+Jarrón
+Cojín
+Manta
+Cerradura
+Timbre
+Felpudo
+
+Cocina (20)
+Sartén
+Olla
+Colador
+Embudo
+Sacacorchos
+Tostadora
+Batidora
+Horno
+Nevera
+Microondas
+Tetera
+Cafetera
+Rallador
+Rodillo
+Mortero
+Báscula
+Tenedor
+Cucharón
+Tabla de cortar
+Salero
+
+Herramientas (20)
+Martillo
+Destornillador
+Taladro
+Sierra
+Alicates
+Llave inglesa
+Tornillo
+Clavo
+Cinta métrica
+Nivel
+Pala
+Rastrillo
+Carretilla
+Hacha
+Lima
+Brocha
+Pincel
+Tijeras
+Yunque
+Torno
+
+Tecnología (20)
+Brújula
+Telescopio
+Microscopio
+Prismáticos
+Cámara fotográfica
+Proyector
+Altavoz
+Micrófono
+Auriculares
+Teclado
+Ratón de ordenador
+Impresora
+Calculadora
+Antena
+Satélite
+Dron
+Semáforo
+Linterna
+Radio
+Máquina de escribir
+
+Ropa y accesorios (20)
+Sombrero
+Bufanda
+Guante
+Calcetín
+Bota
+Sandalia
+Corbata
+Cinturón
+Mochila
+Maleta
+Cartera
+Gafas de sol
+Casco
+Chaleco
+Gabardina
+Bañador
+Pulsera
+Anillo
+Collar
+Abanico
+
+Deporte y ocio (20)
+Raqueta
+Pelota
+Dado
+Dominó
+Tablero de ajedrez
+Cometa
+Bumerán
+Frisbee
+Cuerda de saltar
+Patín
+Esquí
+Tabla de surf
+Aleta de buceo
+Portería
+Canasta
+Saco de boxeo
+Tienda de campaña
+Hamaca
+Anzuelo
+Puzzle
+
+Música y arte (20)
+Guitarra
+Violín
+Piano
+Tambor
+Flauta
+Trompeta
+Saxofón
+Acordeón
+Arpa
+Maracas
+Pandereta
+Xilófono
+Metrónomo
+Disco de vinilo
+Atril
+Caballete
+Lienzo
+Marioneta
+Máscara
+Claqueta
+
+Animales y plantas (20)
+Pulpo
+Medusa
+Tiburón
+Caballito de mar
+Pingüino
+Flamenco
+Camaleón
+Erizo
+Murciélago
+Caracol
+Libélula
+Mariposa
+Escarabajo
+Cangrejo
+Tortuga
+Cactus
+Bambú
+Girasol
+Palmera
+Helecho
+
+Objetos diversos (20)
+Candado
+Llave
+Imán
+Reloj de arena
+Termómetro
+Jeringuilla
+Extintor
+Buzón
+Sello
+Sobre
+Pasaporte
+Moneda
+Billete
+Trofeo
+Medalla
+Campana
+Ancla
+Salvavidas
+Escalera
+Carrito de la compra
